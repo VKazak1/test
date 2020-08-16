@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.main {
+  width: 100%;
+  color: #ffffff;
+  height: 100%;
+  background-color: #000000;
+}
+
+.bgvideo {
+  width: 100%;
+}
